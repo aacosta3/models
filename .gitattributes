@@ -1,0 +1,2 @@
+yolo-files filter=lfs diff=lfs merge=lfs -text
+yolo-files/yolov3.weights filter=lfs diff=lfs merge=lfs -text
