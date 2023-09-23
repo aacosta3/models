@@ -1,4 +1,4 @@
-# models
+# Yolo-model
 
 ## Object detection with YOLOv3
 
@@ -14,9 +14,9 @@ pip install opencv-python
 
 to run YOLO object detection
 ```
-python yolo.py --image ./input-image/<image> --yolo .
+python yolo.py --image ./input-image/[image] --yolo .
 ```
-inside <image> you can implement your own image
+inside [image] you can implement your own image
 
 using banana.jpg provided as example
 ```
