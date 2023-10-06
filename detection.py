@@ -17,7 +17,7 @@ def model():
     
     project = rf.workspace().project("fridge-vision")
     # version of the model
-    model = project.version(2).model
+    model = project.version(8).model
 
     return model
 
