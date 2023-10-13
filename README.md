@@ -1,9 +1,9 @@
-# Make calls to robofflow food detection model
+# Make calls to roboflow food detection model
 
 # Upload your food image
 
 # get a prediction of what food is present on image
 
-# Run on terminal: python detection.py
+# Run on terminal: python demo_food_detection.py
 
-Open a browser at http://127.0.0.1:5000/
+# inside static/predictions you will have the output image named prediction.jpg
